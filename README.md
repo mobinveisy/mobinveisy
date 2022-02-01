@@ -1,7 +1,7 @@
 <img src="./images/computer.gif" width="100%"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=mobinveisy&style=flat-square&color=blueviolet">
-
+<img src="./images/Geometric Minimalist Black and White LinkedIn Banner.png" width="100%"/>
 I'm a front-end developer!
 
 I'm junior front-end developer and I'm really interested and skills that I reach by now you can check in my resume =>
