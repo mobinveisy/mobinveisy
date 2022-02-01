@@ -67,9 +67,11 @@ What made me fall in love with web development and front-end is the capability t
   <a href="https://www.linkedin.com/in/mobin-veisy/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
+  <!--
 <a href="https://instagram.com/mobincode">
 <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
-     <br/>
+-->     
+<br/>
        <br/>
    <a href="https://linktr.ee/mobinveisy">🔗MobinVeisy</a>
 </a>
