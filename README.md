@@ -73,6 +73,6 @@ What made me fall in love with web development and front-end is the capability t
 -->     
 <br/>
        <br/>
-   <a href="https://linktr.ee/mobinveisy">🔗MobinVeisy</a>
+   <a href="https://mobinveisy.bio.link">🔗MobinVeisy</a>
 </a>
 </p>
