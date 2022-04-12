@@ -14,11 +14,13 @@ What made me fall in love with web development and front-end is the capability t
 
 
 ## 👨🏻‍💻 About me
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C5B4F7&lines=Mobin+Veisy+;Frontend+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br>
 
 <img src="./images/message.gif" width="300px" align="right">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C5B4F7&lines=Mobin+Veisy+;Frontend+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
 
 - 🌎 I'm from Earth - Iran
 - 👨🏻‍💻 Love Programming , Web design ,entrepreneurship & Front-End
