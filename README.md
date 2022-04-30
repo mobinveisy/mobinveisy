@@ -19,13 +19,13 @@ What made me fall in love with web development and front-end is the capability t
 <img src="./images/message.gif" width="300px" align="right">
 
 
-- 🌎 I'm from Earth - Iran
+- 🌎 I'm from Earth - Iran/Tehran
 - 👨🏻‍💻 Love Programming , Web design ,entrepreneurship & Front-End
 - 🧠 Love learning 
 - 🚀 Passionate for Success 
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via => mobinveisy@yahoo.com
-- <br>
+<br>
 
 <br>
 <br>
