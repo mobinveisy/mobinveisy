@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
+
+
 <img src="./images/computer.gif" width="100%"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=mobinveisy&style=flat-square&color=blueviolet">
