@@ -1,8 +1,8 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xa0zwt9xo1zx2udeehvveebta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<br>
 <p align="center">
 <a href="https://mobinveisy.ir/" title="Snek 🐍"><img width="1000" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
-
-
 <img src="./images/computer.gif" width="100%"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=mobinveisy&style=flat-square&color=blueviolet">
