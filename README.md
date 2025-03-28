@@ -61,7 +61,7 @@ What made me fall in love with web development and front-end is the capability t
 <br>
 <br>
 <br>
-
+<a href="https://app.daily.dev/mobinveisy"><img src="https://api.daily.dev/devcards/v2/HkBn0AUkXUJZl1iNfOl2P.png?type=default&r=0uh" width="356" alt="Mobin Veisy's Dev Card"/></a>
 ---
 
 <p align="center" > 
