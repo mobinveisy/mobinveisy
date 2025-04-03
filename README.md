@@ -48,8 +48,7 @@ What made me fall in love with web development and front-end is the capability t
 
 ## 📊 Take a look in my stats
 
-<a href="https://github.com/mobinveisy">
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=mobinveisy&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+![Mobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobinveisy&show_icons=true&theme=synthwave))
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinveisy&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
 
